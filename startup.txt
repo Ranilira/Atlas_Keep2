@@ -1,1 +1,1 @@
-gunicorn --bind=0.0.0.0 --timeout 600 keeper:app
+gunicorn --bind=0.0.0.0 --timeout 600 --chdir Atlas_Keep keeper:app
