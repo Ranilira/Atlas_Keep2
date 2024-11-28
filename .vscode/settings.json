@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/554ac99f-d406-4d4c-9ed3-12035b5e3358/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/atas-keeper",
+    "appService.deploySubpath": "."
+}
